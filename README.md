@@ -1,0 +1,1 @@
+example app demonstrating oauth flow for github based on [Anton Orlov's discord oauth2 example](https://medium.com/@orels1/using-discord-oauth2-a-simple-guide-and-an-example-nodejs-app-71a9e032770)
