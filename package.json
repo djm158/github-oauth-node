@@ -2,12 +2,13 @@
   "name": "oauth-example-node",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Dan McGrath",
   "license": "ISC",
   "dependencies": {
     "btoa": "^1.1.2",
